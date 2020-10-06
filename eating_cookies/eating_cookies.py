@@ -3,7 +3,8 @@ Input: an integer
 Returns: an integer
 '''
 def eating_cookies(n):
-    # Your code here
+    # Your code here 
+    # initital commit
 
     pass
 
